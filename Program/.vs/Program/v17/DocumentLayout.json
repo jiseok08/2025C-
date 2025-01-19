@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99BB7603-A474-4889-A7C6-87150235B444}|..\\Class3th (Constructor \u0026 Destructor\\Class3th (Constructor \u0026 Destructor.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class3th (Constructor \u0026 Destructor\\Class3th (Constructor \u0026 Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D96999C2-3274-497C-A8C7-481F354C6FB4}|..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class3th (Constructor \u0026 Destructor.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class3th (Constructor \u0026 Destructor\\Class3th (Constructor \u0026 Destructor.cpp",
-              "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor\\Class3th (Constructor \u0026 Destructor.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class3th (Constructor \u0026 Destructor\\Class3th (Constructor \u0026 Destructor.cpp",
-              "RelativeToolTip": "..\\Class3th (Constructor \u0026 Destructor\\Class3th (Constructor \u0026 Destructor.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "RelativeToolTip": "..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-18T07:08:25.929Z",
+              "WhenOpened": "2025-01-19T09:56:41.393Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:20.959Z",
               "EditorCaption": ""
