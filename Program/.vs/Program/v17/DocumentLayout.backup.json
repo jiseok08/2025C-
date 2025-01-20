@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D96999C2-3274-497C-A8C7-481F354C6FB4}|..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{292F9048-96F8-45C1-B50B-26CBBB1D8EEA}|..\\Class5th (Inherltance)\\Class5th (Inherltance).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class5th (Inherltance)\\Class5th (Inherltance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class4th (Shallow Copy \u0026 Deep Copy).cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
-              "RelativeDocumentMoniker": "..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
-              "RelativeToolTip": "..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Title": "Class5th (Inherltance).cpp",
+              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class5th (Inherltance)\\Class5th (Inherltance).cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Inherltance)\\Class5th (Inherltance).cpp",
+              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class5th (Inherltance)\\Class5th (Inherltance).cpp",
+              "RelativeToolTip": "..\\Class5th (Inherltance)\\Class5th (Inherltance).cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-19T09:56:41.393Z",
+              "WhenOpened": "2025-01-20T10:05:08.272Z",
               "EditorCaption": ""
             },
             {
@@ -38,9 +38,9 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:20.959Z",
               "EditorCaption": ""

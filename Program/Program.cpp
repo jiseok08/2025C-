@@ -2,52 +2,69 @@
 
 using namespace std;
 
-class Terran
+class Weapon
 {
 protected:
-	int health;
-	int defense;
+	int attact;
+	int intersection;
 public:
-	Terran()
+
+#pragma region 오버라이드
+	// 상위 클래스에 있는 함수를 하위 클래스에서
+	// 재정의하여 사용하는 기능입니다.
+
+	void Attack()
 	{
-		cout << "Created Terran" << endl;
+		cout << "Weapon Attack" << endl;
 	}
+
+	// 오버라이드는 상속 관계에서만 이루어지며,
+	// 하위 클래스에서 함수를 재정의할 때 상위
+	// 클래스의 함수 형태와 일치해야 합니다.
+#pragma endregion
+
 };
 
-class Marine : public Terran
+class Knife : public Weapon
 {
-	int attack;
+private:
+
 public:
-	Marine()
+	void Attack()
 	{
-		cout << "Created Marrin" << endl;
+		cout << "Knife Attack" << endl;
 	}
 };
 
+class Knuckles : public Weapon
+{
+private:
 
+public:
+	void Attack()
+	{
+		cout << "Knuckles Attack" << endl;
+	}
+};
 
 int main()
 {
-#pragma region 캡슐화
-	// 클래스 안에 서로 연관되어 있는 속성들과 기능들을 하나의 캡슐로
-	// 만들어 데이터를 외부로부터 보호하며, 사용자에게 인터페이스를
-	// 제공하는 클래스의 기능을 사용하는 것입니다.
+#pragma region 다형성
+	// 여러 개의 서로 다른 객체가 동일한 기능을 서로
+	// 다른 방법으로 처리할 수 있는 작업입니다.
 
+	Weapon weapon;
+	Knife knife;
+	Knuckles knuckles;
+
+	weapon.Attack();
+	knife.Attack();
+	knuckles.Attack();
+
+	// 다양성은 컴파일 시점에 함수와 속성이 결정되는
+	// 정적 바인딩을 하지 않고, 실행 시간에 함수와 속성이
+	// 결정될 수 있는 동적 바인딩을 가능하게 합니다.
 #pragma endregion
-
-#pragma region 상속
-	// 상위 클래스의 속성을 하위 클래스가 사용할 수 있도록
-	// 설정해주는 기능입니다.
-
-	Terran terran;
-
-	Marine marine;
-
-	// 클래스의 상속 관계에서 상위 클레스는 하위 클래스의
-	// 속성을 사용할 수 없으며, 하위 클래스는 상위 클래스의
-	// 메모리가 포함된 상태로 메모리의 크기가 결정됩니다.
-#pragma endregion
-
 
 	return 0;
 }
