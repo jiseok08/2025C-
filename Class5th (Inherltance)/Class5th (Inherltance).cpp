@@ -2,20 +2,20 @@
 
 using namespace std;
 
-class Terran
+class Unit
 {
 protected:
 	int health;
 	int defense;
 public:
-	Terran()
+	Unit()
 	{
 		cout << "Created Terran" << endl;
 		cout << endl;
 	}
 };
 
-class Marine : public Terran
+class Marine : public Unit
 {
 	int attack;
 public:
@@ -37,7 +37,7 @@ public:
 	}
 };
 
-class Firebat : public Terran
+class Firebat : public Unit
 {
 	int attack;
 public:
@@ -60,7 +60,7 @@ public:
 	}
 };
 
-class Ghost : public Terran
+class Ghost : public Unit
 {
 	int attack;
 public:
