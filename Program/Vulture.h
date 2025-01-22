@@ -2,8 +2,9 @@
 #include "Terran.h"
 class Vulture : public Terran
 {
-	public:
-		Vulture();
+public:
+	Vulture();
 
+	void Stats();
 };
 

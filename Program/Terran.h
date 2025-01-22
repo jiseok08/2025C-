@@ -7,5 +7,8 @@ protected:
 	int defense;
 public:
 	Terran();
+
+	void Stats();
 };
+
 
