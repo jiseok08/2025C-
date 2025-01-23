@@ -8,6 +8,6 @@ class SiegeTank : public Terran
 public:
 	SiegeTank();
 
-	void Stats();
+	virtual void Stats() override;
 };
 

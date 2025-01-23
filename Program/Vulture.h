@@ -5,6 +5,6 @@ class Vulture : public Terran
 public:
 	Vulture();
 
-	void Stats();
+	virtual void Stats() override;
 };
 

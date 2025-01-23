@@ -2,13 +2,13 @@
 class Terran
 {
 protected:
-	int attack;
-	int health;
-	int defense;
+	int attack; // 4
+	int health; // 4
+	int defense; // 4
 public:
 	Terran();
 
-	void Stats();
+	virtual void Stats();
 };
 
 

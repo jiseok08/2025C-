@@ -5,7 +5,7 @@ class Goliath :public Terran
 public:
 	Goliath();
 
-	void Stats();
+	virtual void Stats() override;
 };
 
 
