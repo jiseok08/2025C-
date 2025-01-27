@@ -7,16 +7,22 @@
       "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2A532D97-7AB1-4651-84A2-D7CC29C08D5A}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96999C2-3274-497C-A8C7-481F354C6FB4}|..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Fruit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -64,7 +70,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-23T09:27:39.84Z",
               "IsPinned": true,
@@ -73,25 +79,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T09:25:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "RelativeToolTip": "..\\Class4th (Shallow Copy \u0026 Deep Copy)\\Class4th (Shallow Copy \u0026 Deep Copy).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T09:25:04.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Banana.cpp",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.cpp",
               "RelativeDocumentMoniker": "Banana.cpp",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.cpp",
               "RelativeToolTip": "Banana.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-24T10:33:57.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Banana.h",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.h",
               "RelativeDocumentMoniker": "Banana.h",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Banana.h",
               "RelativeToolTip": "Banana.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-24T10:32:47.684Z",
               "EditorCaption": ""
@@ -104,27 +136,27 @@
               "RelativeDocumentMoniker": "Fruit.cpp",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Fruit.cpp",
               "RelativeToolTip": "Fruit.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-24T10:31:42.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Fruit.h",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Fruit.h",
               "RelativeDocumentMoniker": "Fruit.h",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Fruit.h",
               "RelativeToolTip": "Fruit.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-24T10:29:57.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Brush.h",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Brush.h",
               "RelativeDocumentMoniker": "Brush.h",
@@ -132,12 +164,11 @@
               "RelativeToolTip": "Brush.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-24T09:16:55.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:16:55.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Brush.cpp",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Brush.cpp",
               "RelativeDocumentMoniker": "Brush.cpp",
@@ -145,12 +176,11 @@
               "RelativeToolTip": "Brush.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAD4vwQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-24T09:17:39.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:17:39.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Paint.h",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Paint.h",
               "RelativeDocumentMoniker": "Paint.h",
@@ -158,12 +188,11 @@
               "RelativeToolTip": "Paint.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-24T09:14:06.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:14:06.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Paint.cpp",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Paint.cpp",
               "RelativeDocumentMoniker": "Paint.cpp",
@@ -171,12 +200,11 @@
               "RelativeToolTip": "Paint.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-24T09:14:20.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:14:20.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Pencil.h",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Pencil.h",
               "RelativeDocumentMoniker": "Pencil.h",
@@ -184,12 +212,11 @@
               "RelativeToolTip": "Pencil.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-24T09:18:25.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:18:25.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Pencil.cpp",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Pencil.cpp",
               "RelativeDocumentMoniker": "Pencil.cpp",
@@ -197,8 +224,7 @@
               "RelativeToolTip": "Pencil.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-24T09:18:53.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:18:53.565Z"
             }
           ]
         }

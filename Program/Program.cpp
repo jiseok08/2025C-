@@ -1,50 +1,48 @@
 ﻿#include <iostream>
-#include "Paint.h"
-#include "Brush.h"
-#include "Pencil.h"
-#include "Fruit.h"
-#include "Banana.h"
 
 using namespace std;
 
+class Vector2
+{
+private:
+	int x;
+	int y;
+public:
+	Vector2(int x,int y)
+	{
+		this->x = y;
+		this->y = y;
 
+	}
+	const int & X()
+	{
+		return x;
+	}
+
+	const int & Y()
+	{
+		return y;
+	}
+};
+
+Vector2 operator + (const Vector2& clone)
+{
+	Vector2();
+
+	return X, Y;
+}
 
 int main()
 {
-#pragma region 추상 클래스
-	// 함수의 특정한 내용이 구현되어 있지 않고, 선언만
-	// 되어있는 클래스입니다.
+#pragma region 연산자 오버로딩
 
-	// Paint* paint = new Brush; // 메모리 할당
-	// 
-	// paint->Draw();
-	// 
-	// delete paint; // 메모리 반환
-	// 
-	// paint = new Pencil; // 메모리 할당
-	// 
-	// paint->Draw();
-	// 
-	// delete paint; // 메모리 반환
+	Vector2 direction1(1,1);
+	Vector2 direction2(5,5);
 
-	// 추상 클래스는 정의되어 있지 않은 함수가 있으므로,
-	// 객체를 생성할 수 없습니다.
+	Vector2 direction =  ;
 
 #pragma endregion
 
-#pragma region 가상 소멸자
-	// 객체가 소멸될 때 현재 참조하고 있는 객체와
-	// 상관없이 모두 호출되는 소멸자입니다.
-
-	Fruit* fruit = new Banana;
-	delete fruit;
-
-
-	// 상속된 객체가 해제될 때 하위 클래스의 소멸자가 먼저
-	// 실행되고, 상위 클래스의 소멸자가 실행되어야 하기 때문에
-	// 실행 시간에 메모리에 할당된 객체를 확인하고 차례대로 소멸시켜야 합니다.
-
-#pragma endregion
 
 
 	return 0;
