@@ -5,12 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6065D3-64ED-491F-87EF-79552FCD2EBB}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class8th (Abstract)\\Class8th (Abstract).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A532D97-7AB1-4651-84A2-D7CC29C08D5A}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,35 +24,9 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-27T09:33:53.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class8th (Abstract).cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class8th (Abstract)\\Class8th (Abstract).cpp",
-              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Class8th (Abstract).cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class8th (Abstract)\\Class8th (Abstract).cpp",
-              "RelativeToolTip": "..\\Class8th (Abstract)\\Class8th (Abstract).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T09:32:14.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class1th (Stream)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class1th (Stream)\\Source.cpp",
-              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T09:25:16.97Z",
               "EditorCaption": ""
             }
           ]

@@ -1,2 +1,3 @@
 ﻿  Program.cpp
+C:\Users\허봉식\Desktop\2025C-\Program\Program.cpp(21,12): warning C4101: 'intlist' :참조되지 않은 지역 변수입니다.
   Program.vcxproj -> C:\Users\허봉식\Desktop\2025C-\Program\x64\Debug\Program.exe
