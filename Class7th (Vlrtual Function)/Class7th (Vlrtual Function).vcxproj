@@ -131,7 +131,7 @@
     <ClCompile Include="..\Program\SiegeTank.cpp" />
     <ClCompile Include="..\Program\Terran.cpp" />
     <ClCompile Include="..\Program\Vulture.cpp" />
-    <ClCompile Include="Class7th (Vlrtual Function).cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\Goliath.h" />

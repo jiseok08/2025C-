@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Class8th (Abstract).cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="..\Program\Banana.cpp">

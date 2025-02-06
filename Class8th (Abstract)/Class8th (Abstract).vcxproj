@@ -132,7 +132,7 @@
     <ClCompile Include="..\Program\Fruit.cpp" />
     <ClCompile Include="..\Program\Paint.cpp" />
     <ClCompile Include="..\Program\Pencil.cpp" />
-    <ClCompile Include="Class8th (Abstract).cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\Banana.h" />
