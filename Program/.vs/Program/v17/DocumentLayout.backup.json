@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{801B706F-9A3B-4795-873C-8645FAE44484}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A636CCD-03C7-4700-8788-904FBD035EDC}|..\\Class14th (Container Adapter)\\Class14th (Container Adapter).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class14th (Container Adapter)\\Class14th (Container Adapter).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9014A8F8-8DA6-476A-8B13-840DA2B6D421}|..\\Class13th (Linear Container)\\Class13th (Linear Container).vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class13th (Linear Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,11 +20,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class14th (Container Adapter).cpp",
+              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class14th (Container Adapter)\\Class14th (Container Adapter).cpp",
+              "RelativeDocumentMoniker": "..\\Class14th (Container Adapter)\\Class14th (Container Adapter).cpp",
+              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class14th (Container Adapter)\\Class14th (Container Adapter).cpp",
+              "RelativeToolTip": "..\\Class14th (Container Adapter)\\Class14th (Container Adapter).cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T09:27:25.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Class13th (Linear Container)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class13th (Linear Container)\\Source.cpp",
@@ -40,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\2025C-\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-27T09:33:53.101Z",
               "EditorCaption": ""
